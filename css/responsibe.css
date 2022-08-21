@@ -1,0 +1,54 @@
+@media  screen  and (max-width: 1270px) {
+
+.nav-list{
+     flex-direction: column; 
+     width: 169%;
+     align-items: center;
+
+}
+.navbar{
+     flex-direction: column;
+     transition: all .9s ease-in-out;
+     height: 478px;
+}
+.rightNav{
+     text-align: center;
+}
+.box-main{
+     flex-direction: column-reverse;
+     max-width: 100%;
+}
+#search{
+     width: 100%;
+}
+.burger{
+     display: block;
+}
+.h-nav-resp{
+     height: 72px;
+}
+.v-class-resp{
+     opacity: 0;
+}
+.section{
+     flex-direction: column-reverse;
+}
+.text-small{
+     text-align: center;
+}
+.text-big{
+     text-align: center;
+}
+.buttons{
+     text-align: center;
+     
+}
+.paras{
+     padding: 0px;
+}
+
+
+
+
+
+}
